@@ -1,0 +1,14 @@
+bulletin
+exports
+uploads
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.xls
+*.xlsx
+*.doc
+*.docx
